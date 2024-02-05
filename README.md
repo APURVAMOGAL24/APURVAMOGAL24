@@ -10,9 +10,9 @@
 -  👩‍🎓  I'm 2nd year Engineering student.
 - ⚡ Pronouns: **Programmer/She/Her/Hers**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Back-end development**
 
-- 👨‍💻 My technology stack involves **C, Python, Javascript, Html/Css/Bootstrap.**
+- 👨‍💻 My technology stack involves **C,C++, Python, Javascript, Html/Css/React/Bootstrap.**
 
 - 📫 How to reach me **poorvamogal31304@gmail.com**
 
