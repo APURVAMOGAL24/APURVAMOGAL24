@@ -7,14 +7,14 @@
 
 </p>
 
--  👩‍🎓  I'm 2nd year Engineering student.
+-  👩‍🎓  I'm 3rd year Engineering student.
 - ⚡ Pronouns: **Programmer/She/Her/Hers**
 
 - 🌱 I’m currently learning **Back-end development**
 
-- 👨‍💻 My technology stack involves **C, C++, Python, Javascript, Html/Css/Reactjs/Bootstrap.**
+- 👨‍💻 My technology stack involves **C, C++, Python,Java, Javascript, Html/Css/Reactjs.**
 
-- 📫 How to reach me **poorvamogal31304@gmail.com**
+- 📫 How to reach me **apurvamogal14402@gmail.com**
 
 
 
