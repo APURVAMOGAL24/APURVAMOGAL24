@@ -1,11 +1,11 @@
 ### 👋 Hey there, I'm so glad you're here!
 
 Welcome to my little corner of GitHub!
-I'm a data analyst who loves turning messy spreadsheets and raw numbers into stories that actually help people make decisions (and I promise, it's more fun than it sounds). Here, you'll find:
+I love turning messy spreadsheets and raw numbers into stories that actually help people make decisions (and I promise, it's more fun than it sounds). Here, you'll find:
 
 - 📊 Projects I'm building — dashboards, analyses, and cleanup scripts
-- 📚 Things I'm learning as I grow my data skills
-- 💼 My journey toward my next data analyst role
+- 📚 Things I'm learning as I grow my skills
+- 💼 My journey toward my next opportunity
 
 Whether you're here to explore some code, see how I think through a problem, or just say hi — you're in the right place!
 
