@@ -38,11 +38,12 @@ Let's connect, learn, and grow together — one dataset at a time. ☕📈
 
 ### 📌 Featured Projects
 
-- **[Loan Portfolio Analysis Dashboard](https://github.com/yourusername/loan-portfolio-dashboard)** — Connected to a Power BI Dataflow to analyze loan approval and default patterns; built DAX measures and Power Query transformations to surface risk trends across borrower segments. *(Tools: Power BI, DAX, Power Query, Dataflows)*
+- **[LoanScope - Loan Default & Financial Risk Analytics Dashboard](https://github.com/APURVAMOGAL24/LoanScope-Loan-Default-Financial-Risk-Analytics-Dashboard)** - Connected to a Power BI Dataflow to analyze loan approval and default patterns; built DAX measures and Power Query transformations to surface risk trends across borrower segments. *(Tools: Power BI, DAX, Power Query, Dataflows)*
 
-- **[Inventory Management Dashboard (SQL Server → MySQL Migration)](https://github.com/yourusername/inventory-dashboard)** — Built an inventory tracking dashboard originally sourced from SQL Server, then migrated the backend to MySQL without rebuilding the report — updated queries in Power Query Editor and remapped DAX measures to the new source. *(Tools: Power BI, SQL Server, MySQL, DAX, Power Query)*
+- **[HomeScape Analytics - Housing Market Dashboard](https://github.com/APURVAMOGAL24/HomeScape-Analytics-Housing-Market-Dashboard)** - Built a Power BI dashboard for Homespace to track sales performance, customer trends, and key business metrics. Provided actionable insights to support data-driven decisions and improve overall performance. *(Tools: Power BI, SQL Server, Google BigQuery, DAX, Power Query)*
 
-- **[AI-Assisted Transaction Data Analysis](https://github.com/yourusername/ai-transaction-analysis)** — Used Perplexity AI to speed up exploratory analysis and pattern discovery on a transaction dataset, then validated and visualized findings with DAX measures and Power Query in Power BI. *(Tools: Power BI, Perplexity AI, DAX, Power Query)*
+- **[IntelliBank - AI-Powered Transaction Analysis Dashboard](https://github.com/APURVAMOGAL24/IntelliBank-AI-Powered-Transaction-Analysis-Dashboard)** - Used Perplexity AI to speed up exploratory analysis and pattern discovery on a transaction dataset, then validated and visualized findings with DAX measures and Power Query in Power BI. *(Tools: Power BI, Perplexity AI, DAX, Power Query)*
+
 
 ---
 <p align="center"><i>Thanks for stopping by — always happy to connect! 🙌</i></p>
